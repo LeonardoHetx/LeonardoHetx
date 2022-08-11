@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <div align="center">
   <a href="https://github.com/LeonardoHetx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoHetx&text_color=ffffff&title_color=7400ff&border_radius=20px&icon_color=c0ff00&show_icons=true&bg_color=040404&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHetx&title_color=7400ff&text_color=ffffff&bg_color=040404&border_radius=20px&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoHetx&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHetx&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LeonardoHetx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
