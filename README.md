@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=hi%20there&desc=I'm%20Leonardo%20Hetx&fontColor=C0ACFF&fontSize=90&fontAlignY=38&descAlignY=52&descAlign=59.5)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;I'm+a+Front-end+Developer:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/LeonardoHetx">
