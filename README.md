@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Leonardo%20Hetx&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!;I'm+a+Front-end+Developer:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!;I'm+a+Front-end++Web+Developer:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/LeonardoHetx">
