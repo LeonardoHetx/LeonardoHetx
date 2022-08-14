@@ -1,7 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=hi%20there&desc=I'm%20Leonardo%20Hetx&fontColor=C0ACFF&fontSize=90&fontAlignY=38&descAlignY=52&descAlign=59.5)
+
+
 <div align="center">
   <a href="https://github.com/LeonardoHetx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoHetx&show_icons=true&include_all_commits=true&count_private=true&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,252A31,252A31,6b3eff&icon_color=6B3EFF&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHetx&show_icons=true&include_all_commits=true&count_private=true&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,252A31,252A31&icon_color=6B3EFFF&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoHetx&show_icons=true&include_all_commits=true&count_private=true&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHetx&show_icons=true&include_all_commits=true&count_private=true&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LeonardoHetx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,3 +23,5 @@
   ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
