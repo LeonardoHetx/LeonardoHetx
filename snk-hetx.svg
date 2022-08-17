@@ -4,7 +4,6 @@
       @keyframes colorChange {
         100% {
           filter: hue-rotate(360deg);
-          transform: rotate(360deg);
         }
       }
 
@@ -1688,9 +1687,6 @@
           transform: translate(48px, -16px)
         }
 
-        100% {
-          filter: hue-rotate(360deg);transform: rotate(360deg);
-        }
       }
 
       @keyframes s1 {
@@ -2031,9 +2027,6 @@
           transform: translate(48px, -16px)
         }
 
-        100% {
-          filter: hue-rotate(360deg);transform: rotate(360deg);
-        }
       }
 
       @keyframes s2 {
@@ -2374,9 +2367,6 @@
           transform: translate(48px, -16px)
         }
 
-        100% {
-          filter: hue-rotate(360deg);transform: rotate(360deg);
-        }
       }
 
       @keyframes s3 {
@@ -2713,9 +2703,6 @@
           transform: translate(48px, 16px)
         }
 
-        100% {
-          filter: hue-rotate(360deg);transform: rotate(360deg);
-        }
       }
 
       :root {
@@ -3187,7 +3174,7 @@
 
       .s,
       .u {
-        animation: none linear 26500ms infinite;
+        animation: none linear 26500ms infinite, none linear 2500ms infinite
       }
 
       .u,
@@ -3218,27 +3205,27 @@
 
       .s {
         shape-rendering: geometricPrecision;
-        fill: var(--cs)
+        fill: var(--cs);
       }
 
       .s.s0 {
         transform: translate(0, -16px);
-        animation-name: s0
+        animation-name: s0, colorChange
       }
 
       .s.s1 {
         transform: translate(16px, -16px);
-        animation-name: s1
+        animation-name: s1, colorChange
       }
 
       .s.s2 {
         transform: translate(32px, -16px);
-        animation-name: s2
+        animation-name: s2, colorChange
       }
 
       .s.s3 {
         transform: translate(48px, -16px);
-        animation-name: s3
+        animation-name: s3, colorChange
       }
     </style>
     <rect class="c" x="2" y="2" rx="2" ry="2" width="12" height="12" />
