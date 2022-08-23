@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#00000000;display:block;z-index:1;position:relative" width="854" height="250" preserveAspectRatio="xMidYMid" viewBox="0 0 854 250">
+<style>
+                            .text {
+						font-size: 90px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                            
+                        </style>
+<g transform="translate(427,125) scale(1,1) translate(-427,-125)"><linearGradient id="lg-0.8346078746708935" x1="0" x2="1" y1="0" y2="0">
+  <stop stop-color="#6c3fff" offset="0"></stop>
+  <stop stop-color="#4b27c1" offset="1"></stop>
+</linearGradient><path d="" fill="url(#lg-0.8346078746708935)" opacity="0.4">
+  <animate attributeName="d" dur="3.846153846153846s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="0s" values="M0 0L 0 199.87464465474775Q 213.5 236.26993827603908  427 214.7081055871748T 854 161.62994125768105L 854 0 Z;M0 0L 0 211.1424535929043Q 213.5 221.28588048918905  427 185.13667757937026T 854 197.02381642685282L 854 0 Z;M0 0L 0 203.58771390304972Q 213.5 176.47249837846306  427 156.91495453230485T 854 181.9323591825055L 854 0 Z;M0 0L 0 199.87464465474775Q 213.5 236.26993827603908  427 214.7081055871748T 854 161.62994125768105L 854 0 Z"></animate>
+</path><path d="" fill="url(#lg-0.8346078746708935)" opacity="0.4">
+  <animate attributeName="d" dur="3.846153846153846s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.9615384615384615s" values="M0 0L 0 164.3327647935906Q 213.5 201.74724058141015  427 158.2449689685322T 854 201.1852321461274L 854 0 Z;M0 0L 0 155.54850617203212Q 213.5 247.7839657121924  427 210.06349493049123T 854 197.85661968139942L 854 0 Z;M0 0L 0 150.51512809889158Q 213.5 240.560569380631  427 204.0023884405929T 854 209.9541814091569L 854 0 Z;M0 0L 0 164.3327647935906Q 213.5 201.74724058141015  427 158.2449689685322T 854 201.1852321461274L 854 0 Z"></animate>
+</path><path d="" fill="url(#lg-0.8346078746708935)" opacity="0.4">
+  <animate attributeName="d" dur="3.846153846153846s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.923076923076923s" values="M0 0L 0 167.47861373431084Q 213.5 217.65628987750188  427 195.4466881496044T 854 173.23789777973903L 854 0 Z;M0 0L 0 213.98854387216417Q 213.5 243.0808694892216  427 203.93007534249904T 854 188.1827712229139L 854 0 Z;M0 0L 0 162.5412597637516Q 213.5 194.2501034973987  427 160.0364768189451T 854 210.6565352074627L 854 0 Z;M0 0L 0 167.47861373431084Q 213.5 217.65628987750188  427 195.4466881496044T 854 173.23789777973903L 854 0 Z"></animate>
+</path><path d="" fill="url(#lg-0.8346078746708935)" opacity="0.4">
+  <animate attributeName="d" dur="3.846153846153846s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.884615384615384s" values="M0 0L 0 197.9112333566888Q 213.5 239.4975100817028  427 206.23236058706277T 854 195.27933002129004L 854 0 Z;M0 0L 0 189.22470837619306Q 213.5 188.22741536909288  427 169.16261880078062T 854 212.37717561537605L 854 0 Z;M0 0L 0 209.40309227530946Q 213.5 207.74513877261097  427 190.84058952168573T 854 209.02966522779917L 854 0 Z;M0 0L 0 197.9112333566888Q 213.5 239.4975100817028  427 206.23236058706277T 854 195.27933002129004L 854 0 Z"></animate>
+</path></g>
+<text fill="url(#pattern)"  text-anchor="middle" alignment-baseline="middle" x="50%" y="38%" class="text" stroke="#none" stroke-width="1">Leonardo Hetx</text>
+                <text fill="url(#pattern)"  text-anchor="middle" alignment-baseline="middle" x="70.5%" y="53%" class="desc">Welcome To My GitHub Profile</text> 
+ 
+    <!-- Da gradient -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="20%" y2="0">
+      <stop offset="0%" style="stop-color:#22272E;"/>
+      <stop offset="25%" style="stop-color:#6c3fff;"/>
+      <stop offset="50%" style="stop-color:#22272E;"/>
+      <stop offset="75%" style="stop-color:#22272E;"/>
+      <stop offset="100%" style="stop-color:#22272E;"/>
+    </linearGradient>
+    
+    <!-- Stitch 2 gradients together for seamless animation  -->
+    <pattern id="pattern" x="0" y="0" width="300%" height="100%" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="150%" height="100%" fill="url(#gradient)">
+        <animate attributeType="XML"
+                 attributeName="x"
+                 from="0" to="150%"
+                 dur="2s"
+                 repeatCount="indefinite"/>
+      </rect>
+      <rect x="-150%" y="0" width="150%" height="100%" fill="url(#gradient)">
+        <animate attributeType="XML"
+                 attributeName="x"
+                 from="-150%" to="0"
+                 dur="2s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </pattern>
+</svg>
