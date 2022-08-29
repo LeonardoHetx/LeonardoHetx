@@ -2,7 +2,7 @@
 
 ![header](https://github.com/LeonardoHetx/LeonardoHetx/blob/master/assets/header.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!;I'm+a+Front-end++Web+Developer:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=Lobster&color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!;I'm+a+Front-end++Web+Developer:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/LeonardoHetx">
