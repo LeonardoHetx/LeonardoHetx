@@ -1,0 +1,11 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" style="height: 100%; width: 100%; background: none repeat scroll 0% 0%;" width="169px" height="169px">
+    <style>
+    @keyframes blink-16ea82ea-d527-49a2-a20f-6c6990ed3f3f {
+      0% { opacity: 1; }
+      64.675% { opacity: 1; }
+      65.325% { opacity: 0; }
+      99.35% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    </style>
+    <g style="transform-origin: 50% 50% 0px; transform: rotate(0deg) scale(0.81);" class="ldl-scale"><g class="ldl-ani" style="transform-origin: 64px 64px 0px; opacity: 1; animation: 1.51515s linear 0s infinite normal forwards running blink-16ea82ea-d527-49a2-a20f-6c6990ed3f3f;"><g class="ldl-layer"><g class="ldl-ani"><path d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z" fill="#E44D26" style="fill: rgb(228, 77, 38);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><path d="M64 116.8l36.378-10.086 8.559-95.878H64z" fill="#F16529" style="fill: rgb(241, 101, 41);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><path d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z" fill="#EBEBEB" style="fill: rgb(235, 235, 235);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><path d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z" fill="#fff" style="fill: rgb(255, 255, 255);"></path></g></g></g></g></svg>
