@@ -37,9 +37,9 @@
   <img align="center" alt="Repositories" width="609px" src="assets/repositories.svg">
 </div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TechNew-Informatica-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/LeonardoHetx/TechNew-Informatica-WS)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TechNew-Informatica-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/LeonardoHetx/technew-ws)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TIC-TAC-TOE&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/LeonardoHetx/TIC-TAC-TOE)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=Cristal-Imoveis-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/Cristal-Imoveis-WS)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=Cristal-Imoveis-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/thiagobiff-ws)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=30-DAYS-CSS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/30-DAYS-CSS)
  
 </div>
