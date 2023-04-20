@@ -1,5 +1,6 @@
-<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" style="height: 100%; width: 100%; background: none repeat scroll 0% 0%;" width="169px" height="169px"><style>@keyframes blink-0eab8319-3c9c-4f42-8a4f-372f117f59d8
-<!-- {
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" style="height: 100%; width: 100%; background: none repeat scroll 0% 0%;" width="169px" height="169px">
+<!--   <style>@keyframes blink-0eab8319-3c9c-4f42-8a4f-372f117f59d8
+{
   50% {
     animation-timing-function: cubic-bezier(0.5856,0.0703,0.4143,0.9297);
     transform: rotate(0deg);
