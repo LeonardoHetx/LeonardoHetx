@@ -1,5 +1,5 @@
-<div align="center"> 
-
+<div align="center">
+  
 ![header](https://github.com/LeonardoHetx/LeonardoHetx/blob/master/assets/header.svg)
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=Lobster&color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!;I'm+a+Front-end++Web+Developer:%29)](https://git.io/typing-svg) -->
@@ -32,7 +32,7 @@
   <a href = "mailto:leonardohetx@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-henrique-texeira-7482b7212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/master/assets/snk-hetx.svg)
+  ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/github-contribution-grid-snake.svg)
 
   ##
   
