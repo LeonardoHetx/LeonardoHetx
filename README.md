@@ -35,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/LeonardoHetx/LeonardoHetx/output/ocean.svg" alt="GitHub Snake" width="100%"/>
   
   ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/github-contribution-grid-snake.gif)
 
   ##
   
