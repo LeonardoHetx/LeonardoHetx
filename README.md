@@ -27,8 +27,6 @@
   <img align="center" alt="LeonardoHetx-GIT" width="9%" src="assets/illustrator-icon.svg">
   <img align="center" alt="LeonardoHetx-GIT" width="9%" src="assets/after-effects-icon.svg">
 </div>
-<br>
-  
   
   ##
  
