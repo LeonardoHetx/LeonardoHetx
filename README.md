@@ -32,7 +32,8 @@
   <a href = "mailto:leonardohetx@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-henrique-texeira-7482b7212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://raw.githubusercontent.com/LeonardoHetx/LeonardoHetx/output/transparent.svg)
+  ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/transparent.svg)
+  
 
   ##
   
