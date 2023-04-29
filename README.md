@@ -33,6 +33,7 @@
   <a href="https://www.linkedin.com/in/leonardo-henrique-texeira-7482b7212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LeonardoHetx/LeonardoHetx/blob/output/ocean.gif?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
   ##
   
