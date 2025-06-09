@@ -16,7 +16,6 @@
 <div align="center" style="display: inline_block">
 <img align="center" alt="Languages & Tools" width="609px" src="assets/laguangesandtools.svg">
 <br>
-  <img align="center" alt="LeonardoHetx-HTML" width="10%" src="assets/php-icon.svg">
   <img align="center" alt="LeonardoHetx-JS" width="11%" src="assets/js-icon.svg">
   <img align="center" alt="LeonardoHetx-HTML" width="10%" src="assets/html-icon.svg">
   <img align="center" alt="LeonardoHetx-CSS" width="10%" src="assets/css-icon.svg">
