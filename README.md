@@ -23,9 +23,6 @@
   <img align="center" alt="LeonardoHetx-GIT" width="10%" src="assets/git-icon.svg">
   <img align="center" alt="LeonardoHetx-GIT" width="10%" src="assets/wordpress-icon.svg">
 <br>
-  <img align="center" alt="LeonardoHetx-CSS" width="9%" src="assets/photoshop-icon.svg">
-  <img align="center" alt="LeonardoHetx-GIT" width="9%" src="assets/illustrator-icon.svg">
-  <img align="center" alt="LeonardoHetx-GIT" width="9%" src="assets/after-effects-icon.svg">
 </div>
   
   ##
