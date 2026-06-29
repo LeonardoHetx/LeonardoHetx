@@ -16,6 +16,4 @@
  
 </div>
 
-![footer](https://github.com/LeonardoHetx/LeonardoHetx/blob/master/assets/footer.svg)
-
 </div>
