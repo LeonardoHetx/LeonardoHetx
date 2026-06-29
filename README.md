@@ -4,8 +4,6 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=Lobster&color=6B3EFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!;I'm+a+Front-end++Web+Developer:%29)](https://git.io/typing-svg) -->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=35&duration=3000&pause=1000&color=DF7B12&center=true&vCenter=true&width=500&lines=Hi+there!;I'm+a+Front-end+Web+Developer+:%29)](https://git.io/typing-svg) -->
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/leu.hetx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
